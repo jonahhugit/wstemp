@@ -1,21 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Phone Gate</title>
+    <title>Script Load Example</title>
     <script>
         // Define the function to run after the script loads
         function scriptLoaded() {
             // Set user info and metadata as you see fit
-            window.decagonEmbed.setMetadata({
+            window.duet.setUserId("xxxxxxxxx");
+            window.duet.setMetadata({
                 email: "john@example.com",
                 name: "John Doe",
-                tier: "Core"
             });
         }
     </script>
 </head>
 <body>
-    <div id="decagon-embed-container"></div>
+    <h1>Script Loading Example 2</h1>
+    <!-- Include the Decagon script and use the onload event -->
     <script src="https://decagon.ai/loaders/wealthsimple.js" onload="scriptLoaded()"></script>
 </body>
 </html>
