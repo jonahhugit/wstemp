@@ -6,7 +6,7 @@
         // Define the function to run after the script loads
         function scriptLoaded() {
             // Set user info and metadata as you see fit
-            window.duet.setMetadata({
+            window.decagonEmbed.setMetadata({
                 email: "john@example.com",
                 name: "John Doe",
                 tier: "Core"
@@ -15,8 +15,7 @@
     </script>
 </head>
 <body>
-    <h1>Phone Gate</h1>
-    <!-- Include the Decagon script and use the onload event -->
+    <div id="decagon-embed-container"></div>
     <script src="https://decagon.ai/loaders/wealthsimple.js" onload="scriptLoaded()"></script>
 </body>
 </html>
