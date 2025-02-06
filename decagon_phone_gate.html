@@ -1,12 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Decagon - Phone Number Gating Test</title>
-
+    <title>Phone Gate</title>
+    <script>
+        // Define the function to run after the script loads
+        function scriptLoaded() {
+            // Set user info and metadata as you see fit
+            window.duet.setMetadata({
+                email: "john@example.com",
+                name: "John Doe",
+                tier: "Core";
+            });
+        }
+    </script>
 </head>
 <body>
-  <script src="<https://decagon.ai/loaders/wealthsimple.js>" />
+    <h1>Phone Gate</h1>
+    <!-- Include the Decagon script and use the onload event -->
+    <script src="https://decagon.ai/loaders/wealthsimple.js" onload="scriptLoaded()"></script>
 </body>
 </html>
