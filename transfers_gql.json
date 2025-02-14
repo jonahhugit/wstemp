@@ -1,0 +1,98 @@
+[
+    {
+        "accountId": "rrsp-jbww5vye",
+        "clientAccountType": "rrsp",
+        "institutionName": "RBC Branch",
+        "progressPercentage": null,
+        "expectedValue": "10000.0",
+        "expectedCompletionDate": null,
+        "estimatedCompletionMaximum": "2023-12-08",
+        "estimatedCompletionMinimum": "2023-12-04",
+        "longStatusDescription": "We're preparing to send your transfer request to RBC Branch. Transfers from RBC Branch usually take 1-2 weeks. For more information on transfers, please refer to <a href=\"https://help.wealthsimple.com/hc/en-ca/articles/360059463853-How-long-does-it-take-to-deposit-withdraw-transfer-and-trade-my-funds-\" target=\"_blank\">this Help Center article</a>.",
+        "shortStatusDescription": "Preparing your transfer"
+    },
+    {
+        "accountId": "non-registered-tvwvirew",
+        "clientAccountType": "non_registered",
+        "institutionName": "Questrade",
+        "progressPercentage": null,
+        "expectedValue": "123121.0",
+        "expectedCompletionDate": null,
+        "estimatedCompletionMaximum": null,
+        "estimatedCompletionMinimum": null,
+        "longStatusDescription": null,
+        "shortStatusDescription": null
+    },
+    {
+        "accountId": "ca_non_registered-08090731-8",
+        "clientAccountType": "non_registered",
+        "institutionName": "Flinks Capital - Dummy Institution",
+        "progressPercentage": null,
+        "expectedValue": "1231231.0",
+        "expectedCompletionDate": null,
+        "estimatedCompletionMaximum": null,
+        "estimatedCompletionMinimum": null,
+        "longStatusDescription": null,
+        "shortStatusDescription": null
+    },
+    {
+        "accountId": "rrsp-BAaUhacMSw",
+        "clientAccountType": "rrsp",
+        "institutionName": null,
+        "progressPercentage": 1257,
+        "expectedValue": "11231312",
+        "expectedCompletionDate": "2024-01-05",
+        "estimatedCompletionMaximum": null,
+        "estimatedCompletionMinimum": null,
+        "longStatusDescription": "We're preparing to send your transfer request. Transfers usually take 1-3 weeks. For more information on transfers, please refer to <a href=\"https://help.wealthsimple.com/hc/en-ca/articles/360059463853-How-long-does-it-take-to-deposit-withdraw-transfer-and-trade-my-funds-\" target=\"_blank\">this Help Center article</a>.",
+        "shortStatusDescription": "Preparing your transfer"
+    },
+    {
+        "accountId": "rrsp-jbww5vye",
+        "clientAccountType": "rrsp",
+        "institutionName": null,
+        "progressPercentage": 1257,
+        "expectedValue": "909.0",
+        "expectedCompletionDate": "2024-01-05",
+        "estimatedCompletionMaximum": null,
+        "estimatedCompletionMinimum": null,
+        "longStatusDescription": "We're preparing to send your transfer request. Transfers usually take 1-3 weeks. For more information on transfers, please refer to <a href=\"https://help.wealthsimple.com/hc/en-ca/articles/360059463853-How-long-does-it-take-to-deposit-withdraw-transfer-and-trade-my-funds-\" target=\"_blank\">this Help Center article</a>.",
+        "shortStatusDescription": "Preparing your transfer"
+    },
+    {
+        "accountId": "rrsp-jbww5vye",
+        "clientAccountType": "rrsp",
+        "institutionName": "Flinks Capital - Dummy Institution",
+        "progressPercentage": null,
+        "expectedValue": "10000.0",
+        "expectedCompletionDate": "2024-01-02",
+        "estimatedCompletionMaximum": "2023-12-15",
+        "estimatedCompletionMinimum": "2023-12-11",
+        "longStatusDescription": "We sent your transfer request to Flinks Capital - Dummy Institution and we're waiting for their response. If you'd like an update, please call Flinks Capital - Dummy Institution for more details. If you do call your institution, please let us know what they say <a href=\"https://wealthsimple.typeform.com/to/jdSIVh\" target=\"_blank\">here</a> so we can take the appropriate next steps.",
+        "shortStatusDescription": "Our team is investigating"
+    },
+    {
+        "accountId": "ca_non_registered-08090731-8",
+        "clientAccountType": "non_registered",
+        "institutionName": "Questrade",
+        "progressPercentage": null,
+        "expectedValue": "459.48",
+        "expectedCompletionDate": "2024-01-02",
+        "estimatedCompletionMaximum": null,
+        "estimatedCompletionMinimum": null,
+        "longStatusDescription": "We sent your transfer request to Questrade and we're waiting for their response. If you'd like an update, please call Questrade for more details. If you do call your institution, please let us know what they say <a href=\"https://wealthsimple.typeform.com/to/jdSIVh\" target=\"_blank\">here</a> so we can take the appropriate next steps.",
+        "shortStatusDescription": "Our team is investigating"
+    },
+    {
+        "accountId": "tfsa-igmh5pjw",
+        "clientAccountType": "tfsa",
+        "institutionName": "Flinks Capital - Dummy Institution",
+        "progressPercentage": null,
+        "expectedValue": "111111",
+        "expectedCompletionDate": "2023-07-30",
+        "estimatedCompletionMaximum": "2023-07-28",
+        "estimatedCompletionMinimum": "2023-07-24",
+        "longStatusDescription": "We sent your transfer request to Flinks Capital - Dummy Institution and we're waiting for their response. If you'd like an update, please call Flinks Capital - Dummy Institution for more details. If you do call your institution, please let us know what they say <a href=\"https://wealthsimple.typeform.com/to/jdSIVh\" target=\"_blank\">here</a> so we can take the appropriate next steps.",
+        "shortStatusDescription": "Our team is investigating"
+    }
+]
