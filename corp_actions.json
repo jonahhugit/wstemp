@@ -1,0 +1,549 @@
+[
+  {
+    "date": "February 19th, 2025",
+    "ticker": "SIL",
+    "name": "Silvercrest Metals Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "new_shares": 1.6022,
+      "new_ticker": "CDE"
+    }
+  },
+  {
+    "date": "February 19th, 2025",
+    "ticker": "DM",
+    "name": "DataMetrex AI Ltd",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.0333
+    }
+  },
+  {
+    "date": "February 19th, 2025",
+    "ticker": "HTHIY",
+    "name": "Hitachi Ltd.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 2
+    }
+  },
+  {
+    "date": "February 19th, 2025",
+    "ticker": "KNWND",
+    "name": "Know Labs Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.025
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "PNGA",
+    "name": "Pangea Natural Foods Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.1667
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "OTLY",
+    "name": "Oatly Group AB",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.05
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "MULN",
+    "name": "Mullen Automotive Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.0167
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "MEGL",
+    "name": "Magic Empire Global Limited",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.25
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "GBU",
+    "name": "Gabriel Resources Ltd.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.1
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "FEAM",
+    "name": "5E Advanced Materials Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.0435
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "CYN",
+    "name": "Cyngn Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.0067
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "BOXL",
+    "name": "Boxlight Corporation",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.2
+    }
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "NEXN",
+    "name": "Nexxen International Limited",
+    "action": "Reclassification",
+    "additional_data": {}
+  },
+  {
+    "date": "February 18th, 2025",
+    "ticker": "BLAC",
+    "name": "Bellevue Life Sciences Acquisition Corp",
+    "action": "Merger",
+    "additional_data": {
+      "new_shares": 1,
+      "new_ticker": "OSRH"
+    }
+  },
+  {
+    "date": "February 14th, 2025",
+    "ticker": "HWY",
+    "name": "Highway 50 Gold Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.5
+    }
+  },
+  {
+    "date": "February 14th, 2025",
+    "ticker": "HODL",
+    "name": "VanEck Bitcoin ETF",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 4
+    }
+  },
+  {
+    "date": "February 14th, 2025",
+    "ticker": "HRX",
+    "name": "Heroux-Devtek Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "cash_per_share": 32.5,
+      "currency": "CAD"
+    }
+  },
+  {
+    "date": "February 14th, 2025",
+    "ticker": "ZUO",
+    "name": "Zuora Inc (Class A)",
+    "action": "Merger",
+    "additional_data": {
+      "cash_per_share": 10.0,
+      "currency": "CAD"
+    }
+  },
+  {
+    "date": "February 14th, 2025",
+    "ticker": "EZFL",
+    "name": "Ezfill Holdings Inc.",
+    "action": "Name Change",
+    "additional_data": {
+      "new_name": "NextNRG Inc.",
+      "new_ticker": "NXXT"
+    }
+  },
+  {
+    "date": "February 14th, 2025",
+    "ticker": "RFAC",
+    "name": "RF Acquisition Corp.",
+    "action": "Reorganization",
+    "additional_data": {
+      "new_shares": 1,
+      "new_ticker": "GCL"
+    }
+  },
+  {
+    "date": "February 14th, 2025",
+    "ticker": "RFACU",
+    "name": "RF Acquisition Corp. - Ex 050128",
+    "action": "Reorganization",
+    "additional_data": {
+      "new_shares": 1.1,
+      "new_ticker": "GCL",
+      "warrants": 1
+    }
+  },
+  {
+    "date": "February 13th, 2025",
+    "ticker": "TANH",
+    "name": "Tantech Holdings Ltd",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.025
+    }
+  },
+  {
+    "date": "February 13th, 2025",
+    "ticker": "JPEG",
+    "name": "Pioneer Media Holdings Inc.",
+    "action": "Name Change",
+    "additional_data": {
+      "new_name": "Pioneer AI Foundry Inc.",
+      "new_ticker": "JPEG"
+    }
+  },
+  {
+    "date": "February 13th, 2025",
+    "ticker": "HYFM",
+    "name": "Hydrofarm Holdings Group Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.1
+    }
+  },
+  {
+    "date": "February 13th, 2025",
+    "ticker": "CTV",
+    "name": "Innovid Corp",
+    "action": "Merger",
+    "additional_data": {
+      "cash_per_share": 3.15,
+      "currency": "USD"
+    }
+  },
+  {
+    "date": "February 13th, 2025",
+    "ticker": "ROIC",
+    "name": "Retail Opportunity Investments Corp",
+    "action": "Merger",
+    "additional_data": {
+      "cash_per_share": 17.5,
+      "currency": "USD"
+    }
+  },
+  {
+    "date": "February 12th, 2025",
+    "ticker": "MRNS",
+    "name": "Marinus Pharmaceuticals Inc",
+    "action": "Plan of Arrangement",
+    "additional_data": {
+      "cash_per_share": 0.55,
+      "currency": "USD"
+    }
+  },
+  {
+    "date": "February 12th, 2025",
+    "ticker": "TCOA",
+    "name": "Trajectory Alpha Acquisition Corp (Class A)",
+    "action": "Liquidation",
+    "additional_data": {
+      "cash_per_share": 11.41862085,
+      "currency": "USD",
+      "escrow_shares": 1
+    }
+  },
+  {
+    "date": "February 11th, 2025",
+    "ticker": "SVA",
+    "name": "Sernova Corp.",
+    "action": "Name Change",
+    "additional_data": {
+      "new_name": "Sernova Corp.",
+      "new_ticker": "SVA"
+    }
+  },
+  {
+    "date": "February 11th, 2025",
+    "ticker": "NIVF",
+    "name": "DireNewGenIvf Group Limited",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.05
+    }
+  },
+  {
+    "date": "February 11th, 2025",
+    "ticker": "TZR.H",
+    "name": "Terrace Energy Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.3333
+    }
+  },
+  {
+    "date": "February 11th, 2025",
+    "ticker": "GSAT",
+    "name": "Globalstar Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.0667
+    }
+  },
+  {
+    "date": "February 11th, 2025",
+    "ticker": "KUT",
+    "name": "Radishred Capital Corp",
+    "action": "Plan of Arrangement",
+    "additional_data": {
+      "cash_per_share": 5,
+      "currency": "CAD"
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "CHR",
+    "name": "Chorus Aviation Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.1429
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "KORU",
+    "name": "Direxion Shares ETF Trust - Drx Dlysokor3x",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.1
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "RAAA",
+    "name": "Corton Enhanced Income Fund - ETF",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.4
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "BTAI",
+    "name": "BioXcel Therapeutics Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.0625
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "TCBP",
+    "name": "TC BioPharm (Holdings) PLC",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.05
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "SWAN",
+    "name": "Black Swan Graphene Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.125
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "JHC",
+    "name": "Jinhua Capital Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.1
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "RIME",
+    "name": "Algorhythm Holdings Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.005
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "MUSH",
+    "name": "The Good Shroom Company Inc.",
+    "action": "Name Change",
+    "additional_data": {
+      "new_name": "Mercanto Holdings Inc.",
+      "new_ticker": "MUSH"
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "HMLO",
+    "name": "Hemlo Explorers Inc.",
+    "action": "Name Change",
+    "additional_data": {
+      "new_name": "Rocky Shore Gold Ltd.",
+      "new_ticker": "RSG"
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "TIUM.U",
+    "name": "Cansortium Inc",
+    "action": "Name Change",
+    "additional_data": {
+      "new_name": "FLUENT Corp",
+      "new_ticker": "FNT"
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "SGLD",
+    "name": "Sabre Gold Mines Corp",
+    "action": "Plan of Arrangement",
+    "additional_data": {
+      "new_shares": 0.693,
+      "new_ticker": "MAI"
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "GXE",
+    "name": "Gear Energy Ltd",
+    "action": "Plan of Arrangement",
+    "additional_data": {
+      "cash_per_share": 0.2246178886815,
+      "currency": "CAD",
+      "new_shares": 0.1911910556592,
+      "new_ticker": "LTC"
+    }
+  },
+  {
+    "date": "February 10th, 2025",
+    "ticker": "SUM",
+    "name": "Summit Materials Inc.",
+    "action": "Plan of Arrangement",
+    "additional_data": {
+      "cash_per_share": 52.5,
+      "currency": "USD"
+    }
+  },
+  {
+    "date": "February 7th, 2025",
+    "ticker": "CEN.H",
+    "name": "Claren Energy Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.2
+    }
+  },
+  {
+    "date": "February 7th, 2025",
+    "ticker": "ERA",
+    "name": "Elcora Advanced Materials Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.1
+    }
+  },
+  {
+    "date": "February 7th, 2025",
+    "ticker": "FTLF",
+    "name": "Fitlife Brands Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 2
+    }
+  },
+  {
+    "date": "February 7th, 2025",
+    "ticker": "RVNC",
+    "name": "Revance Therapeutics Inc",
+    "action": "Merger",
+    "additional_data": {
+      "cash_per_share": 3.65,
+      "currency": "USD"
+    }
+  },
+  {
+    "date": "February 7th, 2025",
+    "ticker": "CAKE",
+    "name": "Radio Fuels Energy Corp",
+    "action": "Merger",
+    "additional_data": {
+      "new_shares": 0.060538,
+      "new_ticker": "PALI"
+    }
+  },
+  {
+    "date": "February 7th, 2025",
+    "ticker": "BALY",
+    "name": "Bally's Corporation",
+    "action": "Merger",
+    "additional_data": {
+      "cash_per_share": 18.25,
+      "currency": "USD"
+    }
+  },
+  {
+    "date": "February 6th, 2025",
+    "ticker": "EVX",
+    "name": "VanEck ETF Trust - Vaneck Environmental Services ETF",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 5
+    }
+  },
+  {
+    "date": "February 6th, 2025",
+    "ticker": "CDMO",
+    "name": "Avid Bioservices Inc",
+    "action": "Merger",
+    "additional_data": {
+      "cash_per_share": 12.5,
+      "currency": "USD"
+    }
+  },
+  {
+    "date": "February 5th, 2025",
+    "ticker": "TNXP",
+    "name": "Tonix Pharmaceuticals Holding Corp.",
+    "action": "Stock Split",
+    "additional_data": {
+      "split_ratio": 0.01
+    }
+  },
+  {
+    "date": "February 5th, 2025",
+    "ticker": "PNPN",
+    "name": "Power Nickel Inc.",
+    "action": "Plan of Arrangement",
+    "additional_data": {
+      "new_shares": 1,
+      "new_ticker": "PNPN",
+      "spinco_shares": 0.05
+    }
+  },
+  {
+    "date": "February 5th, 2025",
+    "ticker": "OKAI",
+    "name": "Evokai Creative Labs Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "
