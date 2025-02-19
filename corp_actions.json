@@ -5,8 +5,9 @@
     "name": "Silvercrest Metals Inc.",
     "action": "Merger",
     "additional_data": {
-      "new_shares": 1.6022,
-      "new_ticker": "CDE"
+      "received_shares": 1.6022,
+      "new_ticker": "CDE",
+      "new_name": "Coeur Mining Inc."
     }
   },
   {
@@ -15,7 +16,8 @@
     "name": "DataMetrex AI Ltd",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.0333
+      "ratio": 0.0333333,
+      "note": "1 for 30 consolidation (reverse split)"
     }
   },
   {
@@ -24,7 +26,8 @@
     "name": "Hitachi Ltd.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 2
+      "ratio": 2,
+      "note": "2 for 1 stock split"
     }
   },
   {
@@ -33,7 +36,8 @@
     "name": "Know Labs Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.025
+      "ratio": 0.025,
+      "note": "1 for 40 consolidation (reverse split); new ticker (KNWN) also mentioned"
     }
   },
   {
@@ -42,7 +46,8 @@
     "name": "Pangea Natural Foods Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.1667
+      "ratio": 0.1666667,
+      "note": "1 for 6 consolidation (reverse split)"
     }
   },
   {
@@ -51,7 +56,8 @@
     "name": "Oatly Group AB",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.05
+      "ratio": 0.05,
+      "note": "1 for 20 consolidation (reverse split)"
     }
   },
   {
@@ -60,7 +66,8 @@
     "name": "Mullen Automotive Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.0167
+      "ratio": 0.0166667,
+      "note": "1 for 60 consolidation (reverse split)"
     }
   },
   {
@@ -69,7 +76,8 @@
     "name": "Magic Empire Global Limited",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.25
+      "ratio": 0.25,
+      "note": "1 for 4 consolidation (reverse split)"
     }
   },
   {
@@ -78,7 +86,8 @@
     "name": "Gabriel Resources Ltd.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.1
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
     }
   },
   {
@@ -87,7 +96,8 @@
     "name": "5E Advanced Materials Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.0435
+      "ratio": 0.0434783,
+      "note": "1 for 23 consolidation (reverse split)"
     }
   },
   {
@@ -96,7 +106,8 @@
     "name": "Cyngn Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.0067
+      "ratio": 0.0066667,
+      "note": "1 for 150 consolidation (reverse split)"
     }
   },
   {
@@ -105,7 +116,8 @@
     "name": "Boxlight Corporation",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.2
+      "ratio": 0.2,
+      "note": "1 for 5 consolidation (reverse split)"
     }
   },
   {
@@ -113,7 +125,9 @@
     "ticker": "NEXN",
     "name": "Nexxen International Limited",
     "action": "Reclassification",
-    "additional_data": {}
+    "additional_data": {
+      "details": "Holders receive 1 new share of NEXN"
+    }
   },
   {
     "date": "February 18th, 2025",
@@ -121,8 +135,9 @@
     "name": "Bellevue Life Sciences Acquisition Corp",
     "action": "Merger",
     "additional_data": {
-      "new_shares": 1,
-      "new_ticker": "OSRH"
+      "received_shares": 1,
+      "new_ticker": "OSRH",
+      "new_name": "OSR Holdings, Inc."
     }
   },
   {
@@ -131,7 +146,8 @@
     "name": "Highway 50 Gold Corp",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.5
+      "ratio": 0.5,
+      "note": "1 for 2 consolidation (reverse split)"
     }
   },
   {
@@ -140,7 +156,8 @@
     "name": "VanEck Bitcoin ETF",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 4
+      "ratio": 4,
+      "note": "4 for 1 stock split"
     }
   },
   {
@@ -149,8 +166,7 @@
     "name": "Heroux-Devtek Inc.",
     "action": "Merger",
     "additional_data": {
-      "cash_per_share": 32.5,
-      "currency": "CAD"
+      "received_cash_per_share": "32.50 CAD"
     }
   },
   {
@@ -159,8 +175,7 @@
     "name": "Zuora Inc (Class A)",
     "action": "Merger",
     "additional_data": {
-      "cash_per_share": 10.0,
-      "currency": "CAD"
+      "received_cash_per_share": "10.00 CAD"
     }
   },
   {
@@ -169,6 +184,8 @@
     "name": "Ezfill Holdings Inc.",
     "action": "Name Change",
     "additional_data": {
+      "old_name": "Ezfill Holdings Inc.",
+      "old_ticker": "EZFL",
       "new_name": "NextNRG Inc.",
       "new_ticker": "NXXT"
     }
@@ -179,8 +196,7 @@
     "name": "RF Acquisition Corp.",
     "action": "Reorganization",
     "additional_data": {
-      "new_shares": 1,
-      "new_ticker": "GCL"
+      "details": "Holders receive 1 new share of GCL Global Holdings Ltd. (GCL)"
     }
   },
   {
@@ -189,9 +205,7 @@
     "name": "RF Acquisition Corp. - Ex 050128",
     "action": "Reorganization",
     "additional_data": {
-      "new_shares": 1.1,
-      "new_ticker": "GCL",
-      "warrants": 1
+      "details": "Holders receive 1.1 new share of GCL (GCL) and 1 GCL warrant per old share"
     }
   },
   {
@@ -200,7 +214,8 @@
     "name": "Tantech Holdings Ltd",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.025
+      "ratio": 0.025,
+      "note": "1 for 40 consolidation (reverse split)"
     }
   },
   {
@@ -209,6 +224,8 @@
     "name": "Pioneer Media Holdings Inc.",
     "action": "Name Change",
     "additional_data": {
+      "old_name": "Pioneer Media Holdings Inc.",
+      "old_ticker": "JPEG",
       "new_name": "Pioneer AI Foundry Inc.",
       "new_ticker": "JPEG"
     }
@@ -219,7 +236,8 @@
     "name": "Hydrofarm Holdings Group Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.1
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
     }
   },
   {
@@ -228,8 +246,7 @@
     "name": "Innovid Corp",
     "action": "Merger",
     "additional_data": {
-      "cash_per_share": 3.15,
-      "currency": "USD"
+      "received_cash_per_share": "3.15 USD"
     }
   },
   {
@@ -238,8 +255,7 @@
     "name": "Retail Opportunity Investments Corp",
     "action": "Merger",
     "additional_data": {
-      "cash_per_share": 17.5,
-      "currency": "USD"
+      "received_cash_per_share": "17.50 USD"
     }
   },
   {
@@ -248,8 +264,7 @@
     "name": "Marinus Pharmaceuticals Inc",
     "action": "Plan of Arrangement",
     "additional_data": {
-      "cash_per_share": 0.55,
-      "currency": "USD"
+      "received_cash_per_share": "0.55 USD"
     }
   },
   {
@@ -258,9 +273,8 @@
     "name": "Trajectory Alpha Acquisition Corp (Class A)",
     "action": "Liquidation",
     "additional_data": {
-      "cash_per_share": 11.41862085,
-      "currency": "USD",
-      "escrow_shares": 1
+      "received_cash_per_share": "11.41862085 USD",
+      "additional_item": "1 escrow share per old share"
     }
   },
   {
@@ -269,6 +283,8 @@
     "name": "Sernova Corp.",
     "action": "Name Change",
     "additional_data": {
+      "old_name": "Sernova Corp.",
+      "old_ticker": "SVA",
       "new_name": "Sernova Corp.",
       "new_ticker": "SVA"
     }
@@ -279,7 +295,8 @@
     "name": "DireNewGenIvf Group Limited",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.05
+      "ratio": 0.05,
+      "note": "1 for 20 consolidation (reverse split), new name is NewGenIvf Group Limited"
     }
   },
   {
@@ -288,7 +305,8 @@
     "name": "Terrace Energy Corp",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.3333
+      "ratio": 0.3333333,
+      "note": "1 for 3 consolidation (reverse split)"
     }
   },
   {
@@ -297,7 +315,8 @@
     "name": "Globalstar Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.0667
+      "ratio": 0.0666667,
+      "note": "1 for 15 consolidation (reverse split)"
     }
   },
   {
@@ -306,8 +325,7 @@
     "name": "Radishred Capital Corp",
     "action": "Plan of Arrangement",
     "additional_data": {
-      "cash_per_share": 5,
-      "currency": "CAD"
+      "received_cash_per_share": "5 CAD"
     }
   },
   {
@@ -316,7 +334,8 @@
     "name": "Chorus Aviation Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.1429
+      "ratio": 0.1428571,
+      "note": "1 for 7 consolidation (reverse split)"
     }
   },
   {
@@ -325,7 +344,8 @@
     "name": "Direxion Shares ETF Trust - Drx Dlysokor3x",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.1
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
     }
   },
   {
@@ -334,7 +354,8 @@
     "name": "Corton Enhanced Income Fund - ETF",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.4
+      "ratio": 0.4,
+      "note": "1 for 2.5 consolidation (reverse split)"
     }
   },
   {
@@ -343,7 +364,8 @@
     "name": "BioXcel Therapeutics Inc",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.0625
+      "ratio": 0.0625,
+      "note": "1 for 16 consolidation (reverse split)"
     }
   },
   {
@@ -352,7 +374,8 @@
     "name": "TC BioPharm (Holdings) PLC",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.05
+      "ratio": 0.05,
+      "note": "1 for 20 consolidation (reverse split)"
     }
   },
   {
@@ -361,7 +384,8 @@
     "name": "Black Swan Graphene Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.125
+      "ratio": 0.125,
+      "note": "1 for 8 consolidation (reverse split)"
     }
   },
   {
@@ -370,7 +394,8 @@
     "name": "Jinhua Capital Corp",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.1
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
     }
   },
   {
@@ -379,7 +404,8 @@
     "name": "Algorhythm Holdings Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.005
+      "ratio": 0.005,
+      "note": "1 for 200 consolidation (reverse split)"
     }
   },
   {
@@ -388,6 +414,8 @@
     "name": "The Good Shroom Company Inc.",
     "action": "Name Change",
     "additional_data": {
+      "old_name": "The Good Shroom Company Inc.",
+      "old_ticker": "MUSH",
       "new_name": "Mercanto Holdings Inc.",
       "new_ticker": "MUSH"
     }
@@ -398,6 +426,8 @@
     "name": "Hemlo Explorers Inc.",
     "action": "Name Change",
     "additional_data": {
+      "old_name": "Hemlo Explorers Inc.",
+      "old_ticker": "HMLO",
       "new_name": "Rocky Shore Gold Ltd.",
       "new_ticker": "RSG"
     }
@@ -408,6 +438,8 @@
     "name": "Cansortium Inc",
     "action": "Name Change",
     "additional_data": {
+      "old_name": "Cansortium Inc (TIUM.U)",
+      "old_ticker": "TIUM.U",
       "new_name": "FLUENT Corp",
       "new_ticker": "FNT"
     }
@@ -418,8 +450,7 @@
     "name": "Sabre Gold Mines Corp",
     "action": "Plan of Arrangement",
     "additional_data": {
-      "new_shares": 0.693,
-      "new_ticker": "MAI"
+      "received_shares_per_old_share": "0.693 of Minera Alamos Inc (MAI)"
     }
   },
   {
@@ -428,10 +459,8 @@
     "name": "Gear Energy Ltd",
     "action": "Plan of Arrangement",
     "additional_data": {
-      "cash_per_share": 0.2246178886815,
-      "currency": "CAD",
-      "new_shares": 0.1911910556592,
-      "new_ticker": "LTC"
+      "received_cash_per_share": "0.2246178886815 CAD",
+      "received_shares_per_share": "0.1911910556592 of Lotus Creek Exploration Inc. (LTC)"
     }
   },
   {
@@ -440,8 +469,7 @@
     "name": "Summit Materials Inc.",
     "action": "Plan of Arrangement",
     "additional_data": {
-      "cash_per_share": 52.5,
-      "currency": "USD"
+      "received_cash_per_share": "52.50 USD"
     }
   },
   {
@@ -450,7 +478,8 @@
     "name": "Claren Energy Corp",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.2
+      "ratio": 0.2,
+      "note": "1 for 5 consolidation (reverse split)"
     }
   },
   {
@@ -459,7 +488,8 @@
     "name": "Elcora Advanced Materials Corp",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.1
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
     }
   },
   {
@@ -468,7 +498,8 @@
     "name": "Fitlife Brands Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 2
+      "ratio": 2,
+      "note": "2 for 1 stock split"
     }
   },
   {
@@ -477,8 +508,7 @@
     "name": "Revance Therapeutics Inc",
     "action": "Merger",
     "additional_data": {
-      "cash_per_share": 3.65,
-      "currency": "USD"
+      "received_cash_per_share": "3.65 USD"
     }
   },
   {
@@ -487,8 +517,7 @@
     "name": "Radio Fuels Energy Corp",
     "action": "Merger",
     "additional_data": {
-      "new_shares": 0.060538,
-      "new_ticker": "PALI"
+      "received_shares_per_share": "0.060538 of Palisades Goldcorp Limited (PALI)"
     }
   },
   {
@@ -497,8 +526,7 @@
     "name": "Bally's Corporation",
     "action": "Merger",
     "additional_data": {
-      "cash_per_share": 18.25,
-      "currency": "USD"
+      "received_cash_per_share": "18.25 USD"
     }
   },
   {
@@ -507,7 +535,8 @@
     "name": "VanEck ETF Trust - Vaneck Environmental Services ETF",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 5
+      "ratio": 5,
+      "note": "5 for 1 stock split"
     }
   },
   {
@@ -516,8 +545,7 @@
     "name": "Avid Bioservices Inc",
     "action": "Merger",
     "additional_data": {
-      "cash_per_share": 12.5,
-      "currency": "USD"
+      "received_cash_per_share": "12.5 USD"
     }
   },
   {
@@ -526,7 +554,8 @@
     "name": "Tonix Pharmaceuticals Holding Corp.",
     "action": "Stock Split",
     "additional_data": {
-      "split_ratio": 0.01
+      "ratio": 0.01,
+      "note": "1 for 100 consolidation (reverse split)"
     }
   },
   {
@@ -535,9 +564,7 @@
     "name": "Power Nickel Inc.",
     "action": "Plan of Arrangement",
     "additional_data": {
-      "new_shares": 1,
-      "new_ticker": "PNPN",
-      "spinco_shares": 0.05
+      "details": "Holders receive 1 share of PNPN plus 0.05 share of a Spinco"
     }
   },
   {
@@ -546,4 +573,1318 @@
     "name": "Evokai Creative Labs Inc.",
     "action": "Stock Split",
     "additional_data": {
-      "
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "February 5th, 2025",
+    "ticker": "CWB",
+    "name": "Canadian Western Bank",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "0.45 of National Bank Of Canada (NA)"
+    }
+  },
+  {
+    "date": "February 5th, 2025",
+    "ticker": "ATGL",
+    "name": "Alpha Technology Group Limited",
+    "action": "Reclassification",
+    "additional_data": {
+      "details": "Holders receive 1 new share of ATGL"
+    }
+  },
+  {
+    "date": "February 5th, 2025",
+    "ticker": "AE",
+    "name": "Adams Resources & Energy Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "38 USD"
+    }
+  },
+  {
+    "date": "February 5th, 2025",
+    "ticker": "FEME",
+    "name": "Forstrong Emerging Markets Equity ETF - ETF",
+    "action": "Liquidation",
+    "additional_data": {
+      "details": "Event details to be determined"
+    }
+  },
+  {
+    "date": "February 4th, 2025",
+    "ticker": "NPS",
+    "name": "Canadian Large Capital Leaders Split Corp.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 1.15,
+      "note": "1.15 for 1 stock split"
+    }
+  },
+  {
+    "date": "February 4th, 2025",
+    "ticker": "GCTK",
+    "name": "GlucoTrack Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.05,
+      "note": "1 for 20 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "February 4th, 2025",
+    "ticker": "NA.R",
+    "name": "National Bank of Canada",
+    "action": "Mandatory Exchange",
+    "additional_data": {
+      "details": "1 share of National Bank Of Canada (NA) per old share"
+    }
+  },
+  {
+    "date": "February 4th, 2025",
+    "ticker": "BCOV",
+    "name": "Brightcove Inc",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "4.45 USD"
+    }
+  },
+  {
+    "date": "February 3rd, 2025",
+    "ticker": "EYEN",
+    "name": "Eyenovia Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0125,
+      "note": "1 for 80 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "February 3rd, 2025",
+    "ticker": "HTLF",
+    "name": "Heartland Financial USA, Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "0.55 of UMB Financial Corp. (UMBF)"
+    }
+  },
+  {
+    "date": "February 3rd, 2025",
+    "ticker": "BMTX",
+    "name": "BM Technologies Inc (Class A)",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "5 USD"
+    }
+  },
+  {
+    "date": "February 3rd, 2025",
+    "ticker": "SCWX",
+    "name": "Secureworks Corp",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "8.50 USD"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "LOAN",
+    "name": "Pegasus Mercantile Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.2,
+      "note": "1 for 5 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "FCUV",
+    "name": "Focus Universal Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "ZKIN",
+    "name": "ZK International Group Co Ltd.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1428571,
+      "note": "1 for 7 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "RR",
+    "name": "Recharge Resources Limited",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.5,
+      "note": "1 for 2 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "GENI",
+    "name": "Genius Metals Inc.",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Genius Metals Inc.",
+      "old_ticker": "GENI",
+      "new_name": "Morocco Strategic Minerals Corporation",
+      "new_ticker": "MCC"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "GIT",
+    "name": "Gitennes Exploration Inc.",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Gitennes Exploration Inc.",
+      "old_ticker": "GIT",
+      "new_name": "Rev Exploration Corp.",
+      "new_ticker": "REVX"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "ENLC",
+    "name": "Enlink Midstream LLC",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "0.1412 of Oneok Inc. (OKE)"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "CM.PR.P",
+    "name": "Canadian Imperial Bank Of Commerce - Ser 41 Cl A",
+    "action": "Mandatory Redemption",
+    "additional_data": {
+      "received_cash_per_share": "25 CAD"
+    }
+  },
+  {
+    "date": "January 31st, 2025",
+    "ticker": "TD.PF.C",
+    "name": "The Toronto-Dominion Bank (Pref)",
+    "action": "Mandatory Redemption",
+    "additional_data": {
+      "received_cash_per_share": "25 CAD"
+    }
+  },
+  {
+    "date": "January 30th, 2025",
+    "ticker": "ACON",
+    "name": "Aclarion Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.00298507,
+      "note": "1 for 335 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 30th, 2025",
+    "ticker": "BLRX",
+    "name": "Bioline Rx Ltd",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.025,
+      "note": "1 for 40 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 30th, 2025",
+    "ticker": "CRKN",
+    "name": "Crown Electrokinetics Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0066667,
+      "note": "1 for 150 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 30th, 2025",
+    "ticker": "FATBB",
+    "name": "FAT Brands Inc (Class B)",
+    "action": "Spinoff",
+    "additional_data": {
+      "new_shares_per_share": 0.1520207125,
+      "new_ticker": "TWNPV",
+      "new_name": "Twin Hospitality Group Inc."
+    }
+  },
+  {
+    "date": "January 30th, 2025",
+    "ticker": "FAT",
+    "name": "FAT Brands Inc (Class A)",
+    "action": "Spinoff",
+    "additional_data": {
+      "new_shares_per_share": 0.1520207125,
+      "new_ticker": "TWNPV",
+      "new_name": "Twin Hospitality Group Inc."
+    }
+  },
+  {
+    "date": "January 30th, 2025",
+    "ticker": "FAT",
+    "name": "Foremost Clean Energy Ltd.",
+    "action": "Plan of Arrangement",
+    "additional_data": {
+      "details": "Event details are still to be determined"
+    }
+  },
+  {
+    "date": "January 29th, 2025",
+    "ticker": "ENVB",
+    "name": "Enveric Biosciences Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0666667,
+      "note": "1 for 15 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 29th, 2025",
+    "ticker": "QGEN",
+    "name": "Qiagen NV",
+    "action": "Mandatory Exchange",
+    "additional_data": {
+      "received_shares_per_share": 0.97222222,
+      "additional_cash_or_dividend": "1.26 USD"
+    }
+  },
+  {
+    "date": "January 29th, 2025",
+    "ticker": "BCT",
+    "name": "Briacell Therapeutics Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0666667,
+      "note": "1 for 15 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 29th, 2025",
+    "ticker": "LAND",
+    "name": "Cumberland Resources Nickel Corp",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Cumberland Resources Nickel Corp",
+      "old_ticker": "LAND",
+      "new_name": "Global Defence Metals Corp.",
+      "new_ticker": "MONI"
+    }
+  },
+  {
+    "date": "January 29th, 2025",
+    "ticker": "TWIO",
+    "name": "Trajan Wealth Income Opportunities ETF",
+    "action": "Liquidation",
+    "additional_data": {
+      "received_cash_per_share": "9.05619165 USD"
+    }
+  },
+  {
+    "date": "January 29th, 2025",
+    "ticker": "ZEUS",
+    "name": "Zeus North America Mining Corp",
+    "action": "Spinoff",
+    "additional_data": {
+      "new_shares_per_share": 0.00666667,
+      "note": "placeholder shares of Kelso Mining Inc"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "VINC",
+    "name": "Vincera Pharma Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.05,
+      "note": "1 for 20 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "ROCK",
+    "name": "Rockridge Resources Ltd",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "0.375 of Eros Resources Corp. (ERC)"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "MAS",
+    "name": "Mas Gold Corp.",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "0.25 of Eros Resources Corp. (ERC)"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "LEXT",
+    "name": "Lexston Mining Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "INKT",
+    "name": "MiNK Therapeutics Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "WHLR",
+    "name": "Wheeler Real Estate Investment Trust Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.25,
+      "note": "1 for 4 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "REVB",
+    "name": "Revelation Biosciences Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0625,
+      "note": "1 for 16 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "MJUS",
+    "name": "Amplify ETF Trust - U.S. Alternative Harvest ETF",
+    "action": "Liquidation",
+    "additional_data": {
+      "received_cash_per_share": "0.76371325 USD"
+    }
+  },
+  {
+    "date": "January 28th, 2025",
+    "ticker": "MEGL",
+    "name": "Magic Empire Global Limited",
+    "action": "Reorganization",
+    "additional_data": {
+      "details": "Event details to be determined"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "BNGO",
+    "name": "Bionano Genomics Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0166667,
+      "note": "1 for 60 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "CDT",
+    "name": "Conduit Pharmaceuticals Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.01,
+      "note": "1 for 100 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "IVP",
+    "name": "Inspire Veterinary Partners Inc. (Class A)",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.04,
+      "note": "1 for 25 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "HAO",
+    "name": "Haoxi Health Technology Limited",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.04,
+      "note": "1 for 25 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "GITS",
+    "name": "Hanryu Holdings Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.05,
+      "note": "1 for 20 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "LAAC",
+    "name": "Lithium Americas Argentina Corp",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Lithium Americas Argentina Corp",
+      "old_ticker": "LAAC",
+      "new_name": "Lithium Argentina AG",
+      "new_ticker": "LAR"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "DUR.P",
+    "name": "Daura Capital Corp",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Daura Capital Corp (DUR.P)",
+      "old_ticker": "DUR.P",
+      "new_name": "Daura Gold Corp.",
+      "new_ticker": "DGC"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "B",
+    "name": "Barnes Group Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "47.5 USD"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "GODN",
+    "name": "Golden Star Acquisition Corp.",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "1 of Gamehaus Holdings Inc. (GMHS)"
+    }
+  },
+  {
+    "date": "January 27th, 2025",
+    "ticker": "GODNU",
+    "name": "Golden Star Acquisition Corp. - Ex 050128",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "1.2 of Gamehaus Holdings Inc. (GMHS)"
+    }
+  },
+  {
+    "date": "January 24th, 2025",
+    "ticker": "HERC",
+    "name": "Hercules Resources Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 24th, 2025",
+    "ticker": "YI",
+    "name": "111 Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 24th, 2025",
+    "ticker": "IDI.H",
+    "name": "Indico Resources Limited Canadian",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 24th, 2025",
+    "ticker": "HEAL",
+    "name": "Restart Life Sciences Corp.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.5,
+      "note": "1 for 2 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 24th, 2025",
+    "ticker": "USAP",
+    "name": "Universal Stainless & Alloy Products, Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "45 USD"
+    }
+  },
+  {
+    "date": "January 23rd, 2025",
+    "ticker": "DEME",
+    "name": "Demesne Resources Limited",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Demesne Resources Limited",
+      "old_ticker": "DEME",
+      "new_name": "American Tungsten Corp.",
+      "new_ticker": "TUNG"
+    }
+  },
+  {
+    "date": "January 23rd, 2025",
+    "ticker": "PEX",
+    "name": "Pacific Ridge Exploration Ltd",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 22nd, 2025",
+    "ticker": "LECR",
+    "name": "Leocor Gold Inc",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Leocor Gold Inc",
+      "old_ticker": "LECR",
+      "new_name": "Leocor Mining Inc.",
+      "new_ticker": "LECR"
+    }
+  },
+  {
+    "date": "January 22nd, 2025",
+    "ticker": "SMAR",
+    "name": "Smartsheet Inc (Class A)",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "56.5 USD"
+    }
+  },
+  {
+    "date": "January 21st, 2025",
+    "ticker": "BQ",
+    "name": "Boqii Holding Limited",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 21st, 2025",
+    "ticker": "LCR",
+    "name": "Leuthold Core ETF (example)",
+    "action": "Merger",
+    "additional_data": {
+      "details": "Holders receive 1 new unit of Managed Portfolio Series Trust Leuthold Core ETF"
+    }
+  },
+  {
+    "date": "January 21st, 2025",
+    "ticker": "CBSE",
+    "name": "Changebridge Capital Sustainable Equity ETF",
+    "action": "Merger",
+    "additional_data": {
+      "details": "Holders receive 1 new unit of ETF Elevation Ser per old unit"
+    }
+  },
+  {
+    "date": "January 21st, 2025",
+    "ticker": "CBLS",
+    "name": "Changebridge Capital Long/Short Equity ETF",
+    "action": "Merger",
+    "additional_data": {
+      "details": "Holders receive 1 new unit of ETF Elevation Ser Tr per old unit"
+    }
+  },
+  {
+    "date": "January 20th, 2025",
+    "ticker": "GATO",
+    "name": "Gatos Silver Inc",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "2.55 of First Majestic Silver Corporation (AG)"
+    }
+  },
+  {
+    "date": "January 20th, 2025",
+    "ticker": "FIL",
+    "name": "Filo Mining Corp",
+    "action": "Merger",
+    "additional_data": {
+      "partial_cash_per_share": "27.489264 CAD",
+      "partial_shares_per_share": "0.3937337473 of Lundin Mining Corp. (LUN)"
+    }
+  },
+  {
+    "date": "January 20th, 2025",
+    "ticker": "COR",
+    "name": "Camino Minerals Corporation",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1666667,
+      "note": "1 for 6 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 17th, 2025",
+    "ticker": "OUT",
+    "name": "Outfront Media Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.975,
+      "note": "1 for 1.024549 consolidation (slight reverse split)"
+    }
+  },
+  {
+    "date": "January 17th, 2025",
+    "ticker": "COG",
+    "name": "Condor Gold Plc",
+    "action": "Merger",
+    "additional_data": {
+      "partial_cash_per_share": "0.1716759 CAD",
+      "partial_shares_per_share": "4.052591629 of Metal Exploration Plc",
+      "additional_item": "1 CVR per old share"
+    }
+  },
+  {
+    "date": "January 16th, 2025",
+    "ticker": "RLI",
+    "name": "RLI Corp.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 2,
+      "note": "2 for 1 stock split"
+    }
+  },
+  {
+    "date": "January 16th, 2025",
+    "ticker": "MBIO",
+    "name": "Mustang Bio Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.02,
+      "note": "1 for 50 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 16th, 2025",
+    "ticker": "ALVR",
+    "name": "AlloVir Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0434783,
+      "note": "1 for 23 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 16th, 2025",
+    "ticker": "LATG",
+    "name": "Latamgrowth Spac",
+    "action": "Merger",
+    "additional_data": {
+      "details": "Holders receive 1 new share of First Corp. (KBSX) per old share"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "SVMH",
+    "name": "Srivaru Holdings Limited",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.02,
+      "note": "1 for 50 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "SMX",
+    "name": "SMX (Security Matters) PLC",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0350877,
+      "note": "1 for 28.5 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "UVIX",
+    "name": "VS Trust - 2X Long Vix Futures ETF 2023P/s",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "CEIX",
+    "name": "Consol Energy Inc",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Consol Energy Inc",
+      "old_ticker": "CEIX",
+      "new_name": "Core Natural Resources, Inc.",
+      "new_ticker": "CNR"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "ENRT",
+    "name": "Enertopia Corporation",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.05,
+      "note": "1 for 20 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "VIPR",
+    "name": "Silver Viper Minerals Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "QRC",
+    "name": "Queen`s Road Capital Investment Ltd",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "VRMMQ",
+    "name": "Vroom Inc.",
+    "action": "Reorganization",
+    "additional_data": {
+      "details": "Holders receive 0.2 new share of Vroom Inc + 0.2 Vroom warrants per old share"
+    }
+  },
+  {
+    "date": "January 15th, 2025",
+    "ticker": "BSR",
+    "name": "Bluestone Resources Inc",
+    "action": "Merger",
+    "additional_data": {
+      "partial_cash_per_share": "0.287 CAD",
+      "additional_item": "1 CVR of Aura Minerals Inc"
+    }
+  },
+  {
+    "date": "January 14th, 2025",
+    "ticker": "ARCH",
+    "name": "Arch Resources Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "1.326 of Core Natural Resources, Inc. (CNR)"
+    }
+  },
+  {
+    "date": "January 14th, 2025",
+    "ticker": "EVAX",
+    "name": "Evaxion Biotech A/S",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.2,
+      "note": "1 for 5 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 14th, 2025",
+    "ticker": "OBDE",
+    "name": "Blue Owl Capital Corp III",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "0.9779 of Owl Rock Capital Corp. (OBDC)"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "THCH",
+    "name": "Silver Crest Acquisition Corporation",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.2,
+      "note": "1 for 5 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "TSDD",
+    "name": "GraniteShares ETF Trust - 2X Short Tsla Daily ETF",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.05,
+      "note": "1 for 20 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "OBT",
+    "name": "Orange County Bancorp Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 2,
+      "note": "2 for 1 stock split"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "STA",
+    "name": "Sanatana Resources Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1428571,
+      "note": "1 for 7 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "KEN.H",
+    "name": "Kenadyr Metals Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1666667,
+      "note": "1 for 6 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "GTTX",
+    "name": "GeneTether Therapeutics Inc.",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "GeneTether Therapeutics Inc.",
+      "old_ticker": "GTTX",
+      "new_name": "Rize Oncology Inc.",
+      "new_ticker": "RIZE"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "GREI",
+    "name": "Goldman Sachs Future Real Estate and Infrastructure Equity ETF",
+    "action": "Liquidation",
+    "additional_data": {
+      "received_cash_per_share": "32.8246 USD"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "GCLN",
+    "name": "Goldman Sachs ETF Trust - Bloomberg Clean Energy Equity ETF",
+    "action": "Liquidation",
+    "additional_data": {
+      "received_cash_per_share": "34.0023 USD"
+    }
+  },
+  {
+    "date": "January 13th, 2025",
+    "ticker": "GPOW",
+    "name": "Goldman Sachs ETF Trust - North American Pipelines & Pwr Equity ETF",
+    "action": "Liquidation",
+    "additional_data": {
+      "received_cash_per_share": "54.3703 USD"
+    }
+  },
+  {
+    "date": "January 10th, 2025",
+    "ticker": "WRUN",
+    "name": "Waverunner Capital Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0666667,
+      "note": "1 for 15 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 10th, 2025",
+    "ticker": "XTIA",
+    "name": "XTI Aerospace Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.004,
+      "note": "1 for 250 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 10th, 2025",
+    "ticker": "PSTX",
+    "name": "Poseida Therapeutics Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "partial_cash_per_share": "9 USD",
+      "additional_item": "1 CVR"
+    }
+  },
+  {
+    "date": "January 10th, 2025",
+    "ticker": "MAW",
+    "name": "Mawson Gold Ltd",
+    "action": "Plan of Arrangement",
+    "additional_data": {
+      "received_shares_per_share": "0.31551394697 of Southern Cross Gold Consolidated (XGC)",
+      "extra": "plus 1 share of SUA HOLDINGS LIMITED"
+    }
+  },
+  {
+    "date": "January 9th, 2025",
+    "ticker": "SEEM",
+    "name": "Serra Energy Metals Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 8th, 2025",
+    "ticker": "JXG",
+    "name": "Jx Luxventure Limited",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.25,
+      "note": "1 for 4 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 8th, 2025",
+    "ticker": "CERO",
+    "name": "CERo Therapeutics Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.01,
+      "note": "1 for 100 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 8th, 2025",
+    "ticker": "EWS",
+    "name": "Environ Waste International",
+    "action": "Reorganization",
+    "additional_data": {
+      "received_cash_per_share": "0.0035 CAD"
+    }
+  },
+  {
+    "date": "January 8th, 2025",
+    "ticker": "L.PR.B",
+    "name": "Loblaws Companies Limited (Pref)",
+    "action": "Mandatory Redemption",
+    "additional_data": {
+      "received_cash_per_share": "25.02944 CAD"
+    }
+  },
+  {
+    "date": "January 7th, 2025",
+    "ticker": "TCBP",
+    "name": "TC BioPharm (Holdings) PLC",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 1.25,
+      "note": "1.25 for 1 stock split"
+    }
+  },
+  {
+    "date": "January 7th, 2025",
+    "ticker": "FM",
+    "name": "BTC iShares MSCI Frontier 100 Fund",
+    "action": "Liquidation",
+    "additional_data": {
+      "received_cash_per_share": "27.234261 USD"
+    }
+  },
+  {
+    "date": "January 6th, 2025",
+    "ticker": "IDAI",
+    "name": "T Stamp Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0666667,
+      "note": "1 for 15 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 6th, 2025",
+    "ticker": "RGF",
+    "name": "Real Good Food Company Inc (Class A)",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0833333,
+      "note": "1 for 12 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 6th, 2025",
+    "ticker": "ODC",
+    "name": "Oil-Dri Corp. Of America",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 2,
+      "note": "2 for 1 stock split"
+    }
+  },
+  {
+    "date": "January 6th, 2025",
+    "ticker": "CMCT",
+    "name": "CIM Commercial Trust Corporation",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1,
+      "note": "1 for 10 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 6th, 2025",
+    "ticker": "SES",
+    "name": "Secure Energy Services Inc.",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Secure Energy Services Inc.",
+      "old_ticker": "SES",
+      "new_name": "Secure Waste Infrastructure Corp",
+      "new_ticker": "SES"
+    }
+  },
+  {
+    "date": "January 6th, 2025",
+    "ticker": "NBR",
+    "name": "Nubian Resources Ltd",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Nubian Resources Ltd",
+      "old_ticker": "NBR",
+      "new_name": "Carlton Precious Inc.",
+      "new_ticker": "CPI"
+    }
+  },
+  {
+    "date": "January 6th, 2025",
+    "ticker": "PFIE",
+    "name": "Profire Energy Inc",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "2.55 USD"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "MTH",
+    "name": "Meritage Homes Corp.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 2,
+      "note": "2 for 1 stock split"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "SOT.UN",
+    "name": "Slate Office Real Estate Investment Trust",
+    "action": "Name Change",
+    "additional_data": {
+      "old_name": "Slate Office Real Estate Investment Trust (SOT.UN)",
+      "old_ticker": "SOT.UN",
+      "new_name": "Ravelin Properties REIT",
+      "new_ticker": "RPR.UN"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "ALUR",
+    "name": "Allurion Technologies Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.04,
+      "note": "1 for 25 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "DCMC",
+    "name": "Dore Copper Mining Corp",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "1.8297 of Cygnus Metals Limited (CYG)"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "MNTX",
+    "name": "Manitex International Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "5.80 USD"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "GEAR",
+    "name": "Revelyst Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "received_cash_per_share": "20.12 USD"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "STCN",
+    "name": "Steel Connect Inc.",
+    "action": "Merger",
+    "additional_data": {
+      "partial_cash_per_share": "11.45 USD",
+      "additional_item": "1 CVR"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "MARX",
+    "name": "Mars Acquisition Corp",
+    "action": "Reorganization",
+    "additional_data": {
+      "details": "Holders receive 1 share of ScanTech AI Systems Inc. (MARX)"
+    }
+  },
+  {
+    "date": "January 3rd, 2025",
+    "ticker": "HJAN",
+    "name": "Innovator ETFs Trust - Premium Income 9 Buffer ETF January",
+    "action": "Mandatory Redemption",
+    "additional_data": {
+      "received_cash_per_share": "24.5427338 USD"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "KLIP",
+    "name": "Kraneshares - Kraneshares China Internet And Covered Call Strategy ETF",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.3333333,
+      "note": "1 for 3 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "CISS",
+    "name": "C3is Inc",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.4,
+      "note": "1 for 2.5 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "ELBM",
+    "name": "Electra Battery Materials Corporation",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.25,
+      "note": "1 for 4 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "ATCH",
+    "name": "AtlasClear Holdings Inc.",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.0166667,
+      "note": "1 for 60 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "WED",
+    "name": "Westaim Corp",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 0.1666667,
+      "note": "1 for 6 consolidation (reverse split)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "IBTX",
+    "name": "Independent Bank Group Inc",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "0.60 of SouthState Corporation (SSB)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "CVLG",
+    "name": "Covenant Logistics Group Inc (Class A)",
+    "action": "Stock Split",
+    "additional_data": {
+      "ratio": 2,
+      "note": "2 for 1 stock split"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "AL",
+    "name": "ALX Resources Corp",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "0.045 of Greenridge Exploration Inc. (GXP)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "SOR",
+    "name": "Source Capital, Inc.",
+    "action": "Reorganization",
+    "additional_data": {
+      "details": "1 share of SOR for each old share (internal reorg)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "MITA",
+    "name": "Coliseum Acquisition Corp (Class A)",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "1 of Rain Enhancement Technologies Holdco Inc. (RAIN)"
+    }
+  },
+  {
+    "date": "January 2nd, 2025",
+    "ticker": "MITAU",
+    "name": "Coliseum Acquisition Corporation - 1 Class A & 1/3 Warrants",
+    "action": "Merger",
+    "additional_data": {
+      "received_shares_per_share": "1 of RAIN",
+      "received_warrants_per_share": "0.33333 of RAINW"
+    }
+  }
+]
