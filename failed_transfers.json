@@ -1,0 +1,119 @@
+[
+    {
+        "accountId": "rrsp-jbww5vye",
+        "clientAccountType": "rrsp",
+        "institutionName": "RBC Branch",
+        "progressPercentage": null,
+        "expectedValue": "10000.0",
+        "expectedCompletionDate": "2025-03-01",
+        "estimatedCompletionMaximum": "2025-02-09",
+        "estimatedCompletionMinimum": "2025-03-06",
+        "longStatusDescription": "We're preparing to send your transfer request to RBC Branch. Transfers from RBC Branch usually take 1-2 weeks.",
+        "shortStatusDescription": "Preparing your transfer",
+        "currentTransitionCode": ["pending_account_opening", "2025-02-01T12:34:56Z"],
+        "previousTransitionCodes": [
+            ["wrong_institution", "2025-01-28T09:15:32Z"],
+            ["account_type_mismatch", "2025-01-20T14:22:10Z"]
+        ]
+    },
+    {
+        "accountId": "non-registered-tvwvirew",
+        "clientAccountType": "non_registered",
+        "institutionName": "Questrade",
+        "progressPercentage": null,
+        "expectedValue": "123121.0",
+        "expectedCompletionDate": null,
+        "estimatedCompletionMaximum": null,
+        "estimatedCompletionMinimum": null,
+        "longStatusDescription": null,
+        "shortStatusDescription": null,
+        "currentTransitionCode": ["institution_did_not_receive", "2025-02-05T08:20:00Z"],
+        "previousTransitionCodes": [
+            ["could_not_reach_institution", "2025-02-02T16:45:00Z"]
+        ]
+    },
+    {
+        "accountId": "ca_non_registered-08090731-8",
+        "clientAccountType": "non_registered",
+        "institutionName": "Flinks Capital - Dummy Institution",
+        "progressPercentage": null,
+        "expectedValue": "1231231.0",
+        "expectedCompletionDate": null,
+        "estimatedCompletionMaximum": null,
+        "estimatedCompletionMinimum": null,
+        "longStatusDescription": null,
+        "shortStatusDescription": null,
+        "currentTransitionCode": ["mismatch_address", "2025-02-03T11:10:45Z"],
+        "previousTransitionCodes": [
+            ["mismatch_name", "2025-01-29T10:30:00Z"],
+            ["invalid_account_number", "2025-01-25T07:15:00Z"]
+        ]
+    },
+    {
+        "accountId": "tfsa-igmh5pjw",
+        "clientAccountType": "tfsa",
+        "institutionName": "Flinks Capital - Dummy Institution",
+        "progressPercentage": null,
+        "expectedValue": "111111",
+        "expectedCompletionDate": "2025-02-26",
+        "estimatedCompletionMaximum": "2025-03-02",
+        "estimatedCompletionMinimum": "2025-02-13",
+        "longStatusDescription": "We sent your transfer request to Flinks Capital - Dummy Institution and we're waiting for their response.",
+        "shortStatusDescription": "Our team is investigating",
+        "currentTransitionCode": ["client_is_trading", "2025-02-06T14:05:00Z"],
+        "previousTransitionCodes": [
+            ["cash_not_available_for_partial_transfer", "2025-02-03T09:25:00Z"],
+            ["investment_not_mature", "2025-01-31T12:45:00Z"]
+        ]
+    },
+    {
+        "accountId": "tfsa-newyork-54213",
+        "clientAccountType": "tfsa",
+        "institutionName": "TD Bank",
+        "progressPercentage": 60,
+        "expectedValue": "50000.0",
+        "expectedCompletionDate": "2025-03-10",
+        "estimatedCompletionMaximum": "2025-03-15",
+        "estimatedCompletionMinimum": "2025-03-05",
+        "longStatusDescription": "Your transfer is being processed by TD Bank.",
+        "shortStatusDescription": "Processing",
+        "currentTransitionCode": ["signature_mismatch", "2025-02-04T18:10:00Z"],
+        "previousTransitionCodes": [
+            ["missing_joint_signature", "2025-02-02T11:20:00Z"],
+            ["wrong_institution_address_sunlife", "2025-01-29T08:55:00Z"]
+        ]
+    },
+    {
+        "accountId": "lira-canada-98712",
+        "clientAccountType": "lira",
+        "institutionName": "BMO Nesbitt Burns",
+        "progressPercentage": 75,
+        "expectedValue": "150000.0",
+        "expectedCompletionDate": "2025-03-15",
+        "estimatedCompletionMaximum": "2025-03-20",
+        "estimatedCompletionMinimum": "2025-03-10",
+        "longStatusDescription": "Your LIRA transfer is currently being reviewed by BMO Nesbitt Burns.",
+        "shortStatusDescription": "Under review",
+        "currentTransitionCode": ["jurisdiction_incorrect", "2025-02-07T10:00:00Z"],
+        "previousTransitionCodes": [
+            ["wrong_flow_initiate_pension", "2025-02-04T14:30:00Z"]
+        ]
+    },
+    {
+        "accountId": "rrsp-cibc-24351",
+        "clientAccountType": "rrsp",
+        "institutionName": "CIBC Investor's Edge",
+        "progressPercentage": 85,
+        "expectedValue": "75000.0",
+        "expectedCompletionDate": "2025-03-12",
+        "estimatedCompletionMaximum": "2025-03-18",
+        "estimatedCompletionMinimum": "2025-03-06",
+        "longStatusDescription": "Your RRSP transfer is almost complete. Waiting for CIBC Investor’s Edge to finalize processing.",
+        "shortStatusDescription": "Finalizing",
+        "currentTransitionCode": ["need_fax_number", "2025-02-08T12:15:00Z"],
+        "previousTransitionCodes": [
+            ["need_branch_number", "2025-02-05T08:50:00Z"],
+            ["wrong_delivery_method", "2025-02-02T14:20:00Z"]
+        ]
+    }
+]
