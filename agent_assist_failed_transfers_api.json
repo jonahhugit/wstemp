@@ -1,1 +1,44 @@
-
+{
+  "user_id": "string",
+  "user_name": "string",
+  "agent_id": "33290048172571",
+  "agent_name": "Jonah Hu",
+  "ticket_id": "435435008324922232",
+  "platform": "zendesk",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Provide assistance for failed institutional transfers based on the transition code. Use clear, professional language suitable for a customer service agent. Each failure type requires specific instructions./n/n## Failure Codes and Instructions:/n/n### 1. **invalid_instructions**/n- The transfer could not proceed because the institution requires the branch number./n- The client must upload an account statement in PDF format (dated within the last 6 months) that includes the branch number./n/n### 2. **mismatch_address**/n- The client’s home address does not match between Wealthsimple and their other institution./n- To review and update their address with Wealthsimple:/n  1. Sign in to the Wealthsimple app on a mobile device./n  2. Tap the Profile icon tab at the top right of the screen./n  3. Select 'Personal Information.' /n  4. Update the residential address./n  5. If the Wealthsimple address is correct, upload an account statement from the other institution showing the same address./n/n### 3. **client_is_trading**/n- The institution rejected the transfer because the account is still trading./n- The client must stop all trading activity and confirm they wish to proceed./n/n### 4. **mismatch_name**/n- The client’s name differs between Wealthsimple and their institution./n- To correct this:/n  - Upload a copy of a passport or driver’s license./n  - Upload the most recent account statement from the institution./n/n### 5. **could_not_reach_institution**/n- Wealthsimple was unable to contact the institution./n- The client should reach out to their institution directly for updates./n/n### 6. **no_communication_with_3rd_party**/n- The institution does not share details with third parties, including Wealthsimple./n- The client must contact the institution and provide Wealthsimple with any relevant details./n/n### 7. **invalid_account_number**/n- The account number appears to be incorrect./n- The client must upload an account statement in PDF format (dated within the last 6 months) that includes the full account number./n/n### 8. **wrong_division**/n- The institution was unable to locate the account./n- The client must upload an account statement showing the institution name and logo./n/n### 9. **wrong_institution**/n- The account was not found at the specified institution and may be held at an underlying fund company./n- The client must upload an account statement listing all assets held in the account./n/n### 10. **account_belongs_to_underlying_fund_company**/n- The account is likely held with an underlying fund company./n- The client must upload an account statement listing all assets./n/n### 11. **wrong_delivery_method**/n- The institution needs to verify the division./n- The client must upload an account statement showing the institution name and logo./n/n### 12. **missing_joint_signature**/n- The transfer requires a joint signature./n- The client must:/n  1. Log into Wealthsimple and access the transfer form./n  2. Print the transfer form./n  3. Have both account owners sign it in ink./n  4. Scan and upload the signed form in PDF format./n/n### 13. **institution_did_not_receive**/n- The institution claims they did not receive the transfer request./n- Wealthsimple has resent the request but warns of potential delays./n/n### 14. **cash_not_available_for_partial_transfer**/n- The institution informed Wealthsimple that there is not enough cash in the client’s account to complete the transfer./n- The client must ensure:/n  - There is enough liquid cash to cover the requested transfer amount./n  - There are sufficient funds to pay the transfer fee./n/n### 15. **mismatch_sin**/n- The client’s SIN does not match between Wealthsimple and the institution./n- The client must verify their SIN:/n  - If incorrect with Wealthsimple, update it in the Wealthsimple app./n  - If incorrect with the institution, contact them to correct it./n/n### 16. **need_drs_statement**/n- The client must upload a Direct Registration System (DRS) statement showing all unrestricted shares they want to transfer./n/n### 17. **wrong_institution_address_sun_life**/n- The client must upload an account statement or provide the correct Sun Life office address./n/n### 18. **need_fax_number**/n- The transfer request cannot be sent because the fax number is missing./n- The client must provide the fax number or upload a statement that includes it./n/n### 19. **need_branch_number**/n- The institution requires a branch number to process the transfer./n- The client must upload an account statement or provide the branch number from a monthly statement./n/n### 20. **chequing_account**/n- The account type being transferred is a chequing or savings account, which cannot be transferred./n- The client must deposit funds instead./n/n### 21. **account_type_mismatch**/n- The transfer was rejected because the account type does not match between Wealthsimple and the institution./n- The client must initiate a new transfer and select the correct account type./n/n### 22. **low_amount_attempt**/n- The transfer amount is very low relative to potential transfer fees./n- The client must confirm they wish to proceed./n/n### 23. **non_sufficient_funds**/n- The client has insufficient funds to cover the transfer amount and/or transfer fee./n- The client must add cash to cover the fee and confirm they want to proceed./n/n### 24. **investment_not_mature**/n- Some assets in the account (e.g., GICs) are not mature and cannot be transferred./n- The client must either wait until maturity or request a partial cash transfer./n/n### 25. **signature_mismatch**/n- The institution rejected the transfer due to a signature issue./n- The client must print, hand-sign, and re-upload the transfer form./n/n### 26. **jurisdiction_incorrect**/n- The jurisdiction does not match what the institution has on file./n- The client must restart the transfer and select the correct jurisdiction./n/n### 27. **wrong_flow_initiate_pension**/n- The client incorrectly initiated a pension transfer under another account type./n- They must restart the transfer and select 'Pension.' /n/n### 28. **pending_account_opening**/n- The client’s Wealthsimple account is not fully open./n- To complete the setup:/n  - Log into Wealthsimple and complete the profile./n  - Sign and submit the required agreements./n/n### 29. **entire_transfer_ineligible_for_in_kind**/n- The account cannot be transferred in-kind./n- The client must confirm they are okay with a cash transfer./n/n### 30. **leave_liquidate_securities**/n- The institution sent unsupported securities./n- The client must decide whether to leave them behind or liquidate them./n/n### 31. **write_off_securities**/n- The institution sent delisted or worthless securities that cannot be transferred./n- The client must work with their institution to write off these securities before proceeding./n/n### 32. **multiple_ineligible_asset_types**/n- The client has both unsupported and delisted securities./n- They must decide whether to:/n  - Leave unsupported securities behind./n  - Liquidate ineligible securities./n  - Write off delisted securities./n/nFor any cases requiring further assistance, the client should be instructed to respond to the email or reach out to Wealthsimple’s Client Experience team."
+    },
+    {
+      "role": "user",
+      "content": "Transfer Information | Non-Registered - Flinks Capital - Dummy Institution ($1,231,231) - No update. Current transition code: mismatch_address (2025-02-03T11:10:45Z), Previous transition code: mismatch_name (2025-01-29T10:30:00Z), invalid_account_number (2025-01-25T07:15:00Z)"
+    }
+  ],
+  "metadata": {
+    "agent_level": "level_1",
+    "accountId": "rrsp-jbww5vye",
+    "clientAccountType": "rrsp",
+    "institutionName": "RBC Branch",
+    "expectedValue": 10000.0,
+    "expectedCompletionDate": "2025-03-01",
+    "estimatedCompletionMaximum": "2025-02-09",
+    "estimatedCompletionMinimum": "2025-03-06",
+    "shortStatusDescription": "Preparing your transfer",
+    "currentTransitionCode": {
+      "code": "pending_account_opening",
+      "date": "2025-02-01T12:34:56Z"
+    },
+    "previousTransitionCodes": [
+      {
+        "code": "wrong_institution",
+        "date": "2025-01-28T09:15:32Z"
+      },
+      {
+        "code": "account_type_mismatch",
+        "date": "2025-01-20T14:22:10Z"
+      }
+    ]
+  },
+  "additional_context": ""
+}
